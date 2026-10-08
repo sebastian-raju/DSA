@@ -29,7 +29,7 @@ function findSecondLargestNumber(arr) {
             secondLargest = arr[i]
         }
     }
-    return secondLargest !== -Infinity ? secondLargest : firstLargest;
+    return secondLargest !== -Infinity ? secondLargest : null;
 }
 
 
