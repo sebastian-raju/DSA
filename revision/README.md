@@ -22,6 +22,7 @@ When everything in a file shows ✅, move on to the next one. If you're stuck fo
 | 5 | `05-second-largest.js` | tracking **two** values in one pass, duplicates, edge cases | secondLargestNumber, revisionSecondLargest |
 | 6 | `06-nested-loops.js` | loop inside a loop, star patterns | loopInLoop |
 | 7 | `07-practice.js` | confidence round: mixed problems from lessons 1–6, easy → challenge | (none, all new) |
+| 8 | `08-min-max-sum.js` | the `.sort()` trap, "total minus one" trick, several trackers in one pass | (HackerRank Mini-Max Sum) |
 
 ## The one idea to remember
 
